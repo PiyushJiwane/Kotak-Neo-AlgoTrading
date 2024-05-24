@@ -1,0 +1,4 @@
+stockName,target_price,orderPlaced,quantity,instrument_token
+RAYMOND-EQ,2275,False,10,2859
+INDUSTOWER-EQ,348.5,True,70,29135
+BLUEDART-EQ,7334.5,True,3,495
